@@ -5,7 +5,7 @@ This repository contains the source code and supplementary resources developed f
 ---
 
 ## Repository Structure
-
+```text
 project/
 ├── data/
 │   ├── removed_subjects.csv
@@ -17,7 +17,7 @@ project/
 ├── 04_classificacao_bertimbau.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
